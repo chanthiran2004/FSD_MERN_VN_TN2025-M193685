@@ -1,0 +1,35 @@
+.image{
+    height: 200px;
+    width: 200px;
+}
+
+.box{
+    border: 1px black solid;
+    height: 350px;
+    text-align: center;
+    width: 240px;
+    padding: 10px;
+}
+
+button{
+    background-color: green;
+    padding: 8px;
+}
+
+nav{
+    background-color: aquamarine;
+    height: 40px;
+    padding-top: px;
+    text-align: center;
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    justify-content: space-around;
+}
+
+button:hover{
+    background-color: blue;
+    width: 150px;
+}
